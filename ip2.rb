@@ -8,4 +8,3 @@ def my_fav_things
   puts "I love #{fav_place}"
 end
 
-my_fav_things
