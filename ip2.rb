@@ -6,7 +6,7 @@ fav_arist = "Taylor Swift"
 
   puts "I love #{fav_animal}"
   puts "I love #{fav_place}"
-  puts "I love #{fav_place}"
+  puts "I love #{fav_artist}"
 end
 
 my_fav_things
